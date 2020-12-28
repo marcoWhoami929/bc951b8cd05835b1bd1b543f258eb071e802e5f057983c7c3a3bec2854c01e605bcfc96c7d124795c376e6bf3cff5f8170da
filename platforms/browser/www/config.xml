@@ -7,7 +7,6 @@
     <author email="mlopez@sfd.com.mx">
         Marco Antonio López Pérez
     </author>
-    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

@@ -7,7 +7,7 @@
     <author email="mlopez@sfd.com.mx">
         Marco Antonio López Pérez
     </author>
-    <content src="index.html" />
+    <content src="public/index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-targetSdkVersion" value="29" />
     <preference name="android-minSdkVersion" value="22" />
